@@ -4,7 +4,7 @@
 
 *Author (s) Name: Byron Cochrane, Ted Habermann, Frédéric Houbie, Lieven Raes, Danny Vandenbroucke *
 
-*Organizations: LINZ, HDF Group, Hexagon Geospatial/Luciad, AGIV, University of Leuven
+*Organizations: LINZ, HDF Group, Hexagon Geospatial/Luciad, Informatie Vlaanderen, University of Leuven
 
 *Email(s):TBD *
 
